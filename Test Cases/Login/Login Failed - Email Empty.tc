@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Failed - Email Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b84acaee-cbdb-491c-8fa9-cc1dafa299d3</testCaseGuid>
+</TestCaseEntity>

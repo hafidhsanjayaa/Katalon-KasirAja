@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register Failed - Email Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3636795-adca-4cc2-b5de-ad3022fc2412</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Failed - Wrong Input Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4360c357-ff0e-499d-8d9d-5c6fe205c83c</testCaseGuid>
+</TestCaseEntity>
