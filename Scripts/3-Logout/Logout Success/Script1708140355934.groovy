@@ -17,13 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('1-Login/Login Success'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://kasirdemo.belajarqa.com/login')
+WebUI.click(findTestObject('Homepage_kasirAja/Dashboard/button_nT'))
 
-WebUI.setText(findTestObject('Object Repository/Homepage_kasirAja/LoginPage_kasirAja/input_email_email'), 'hafidh@manaje.id')
+WebUI.click(findTestObject('Homepage_kasirAja/Dashboard/button_logout'))
 
-WebUI.click(findTestObject('Object Repository/Homepage_kasirAja/LoginPage_kasirAja/button_login'))
+WebUI.waitForElementVisible(findTestObject('Homepage_kasirAja/LoginPage_kasirAja/h2_hai, kasirAja'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Homepage_kasirAja/LoginPage_kasirAja/div_password is not allowed to be empty'))
+WebUI.verifyElementVisible(findTestObject('Homepage_kasirAja/LoginPage_kasirAja/h2_hai, kasirAja'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.closeBrowser()
 

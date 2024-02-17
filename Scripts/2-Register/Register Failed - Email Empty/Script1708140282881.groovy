@@ -17,23 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Login/Move to Register Page'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('1-Login/Move to Register Page'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementVisible(findTestObject('Homepage_kasirAja/RegisterPage_kasirAja/label_nama toko'), 0)
-
-WebUI.verifyElementVisible(findTestObject('Homepage_kasirAja/RegisterPage_kasirAja/label_nama toko'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.setText(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/input_email_email'), 'hafidh@manaje.id')
+WebUI.setText(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/input_nama toko_name'), 'Toko Sejahtera')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/input_password_password'), 
     'RigbBhfdqOBGNlJIWM1ClA==')
 
+WebUI.click(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/svg_password_svg-inline--fa fa-eye-slash'))
+
 WebUI.click(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/button_daftar'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/div_toko name is not allowed to be empty'), 
+WebUI.waitForElementVisible(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/div_email is not allowed to be empty'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/div_toko name is not allowed to be empty'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/div_email is not allowed to be empty'))
 
 WebUI.closeBrowser()
 

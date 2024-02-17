@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2e73f97d-2140-4d24-8664-ef30036ffd79</webElementGuid>
+      <webElementGuid>cddca163-8c21-4388-a8c0-48ee06e43daf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>alert</value>
-      <webElementGuid>898291d9-84c9-4943-8287-b69b112e5f14</webElementGuid>
+      <webElementGuid>7e9b05d1-98de-4d8e-81ca-65ddf1138ecc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-alert css-qwanz3</value>
-      <webElementGuid>dac7f61b-5449-419d-b30f-d76f2b4f400b</webElementGuid>
+      <webElementGuid>e0d070c0-32f0-4584-9992-c06db507e69a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>&quot;password&quot; is not allowed to be empty</value>
-      <webElementGuid>e72c612d-5407-4cdc-a5cf-d0e2031011d2</webElementGuid>
+      <webElementGuid>257e0cdc-e74e-4442-93ed-eb915b255b0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-1y1lvqg&quot;]/div[@class=&quot;css-16in75i&quot;]/div[@class=&quot;css-1w7v3tn&quot;]/div[@class=&quot;css-11jlpvc&quot;]/div[@class=&quot;chakra-alert css-qwanz3&quot;]</value>
-      <webElementGuid>bfac0418-8558-4345-bad3-9486a39db3d7</webElementGuid>
+      <webElementGuid>5031254d-480f-427c-a60a-3b80ef54ea48</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[2]/div/div</value>
-      <webElementGuid>8ee3912e-ae8b-4467-8daf-8abe3772541d</webElementGuid>
+      <webElementGuid>f064f637-9730-4284-bcd5-cea7afc6fa71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='- kasirAjaDev'])[1]/following::div[3]</value>
-      <webElementGuid>678dd637-e297-4e3a-82e3-2f31e0ca9933</webElementGuid>
+      <webElementGuid>4a56532f-9c2c-4ed7-ab04-48099c720ee4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='hai, kasirAja'])[1]/following::div[3]</value>
-      <webElementGuid>5cce7485-d36c-4e1d-8a1f-52ebdf81bc5d</webElementGuid>
+      <webElementGuid>b89a6d8d-7ddd-48b3-a9c0-a504931962aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='nama toko'])[1]/preceding::div[1]</value>
-      <webElementGuid>0ff400a3-7e0d-48ed-9e24-4d550db90a4a</webElementGuid>
+      <webElementGuid>3d2e5775-3f43-47b7-b2fe-70e837131633</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='email'])[1]/preceding::div[2]</value>
-      <webElementGuid>ec2bba35-7194-4731-9bf7-fad82184e457</webElementGuid>
+      <webElementGuid>276215b0-be35-4575-bc4f-63b86fefdfb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='&quot;password&quot; is not allowed to be empty']/parent::*</value>
-      <webElementGuid>e2d5f6c0-fc84-4e55-bfb0-a7067339b4f1</webElementGuid>
+      <webElementGuid>e16fd113-94d1-46c0-974a-4553815c1b7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div</value>
-      <webElementGuid>33be6337-34c0-420d-aa76-e60f0bbc1053</webElementGuid>
+      <webElementGuid>533d4787-4fda-437f-a12f-a4b44da66e3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '&quot;password&quot; is not allowed to be empty' or . = '&quot;password&quot; is not allowed to be empty')]</value>
-      <webElementGuid>ca912608-526b-41b6-871d-97e1fdf3a030</webElementGuid>
+      <webElementGuid>5d90fc35-8deb-47da-a611-ecf953703fd2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

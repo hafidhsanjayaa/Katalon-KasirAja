@@ -17,24 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Login/Move to Register Page'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.setText(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/input_nama toko_name'), 'Toko Sejahtera')
+WebUI.navigateToUrl('https://kasirdemo.belajarqa.com/')
 
-WebUI.setText(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/input_email_email'), 'sejahtera@example.id')
+WebUI.setText(findTestObject('Object Repository/Homepage_kasirAja/LoginPage_kasirAja/input_email_email'), 'sample@ex.com')
 
-'password : sejahtera123'
-WebUI.setEncryptedText(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/input_password_password'), 
-    '2es6Zb+EZmvsvMGoRJkZtQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Homepage_kasirAja/LoginPage_kasirAja/input_password_password'), 
+    '094vMPIdIX2wDl4hEOT/tg==')
 
-WebUI.click(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/button_password_chakra-button css-1t6k0fn'))
+WebUI.click(findTestObject('Object Repository/Homepage_kasirAja/LoginPage_kasirAja/button_login'))
 
-WebUI.click(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/button_daftar'))
+WebUI.waitForElementPresent(findTestObject('Object Repository/Homepage_kasirAja/Dashboard/h3_kasirAja'), 0)
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/div_Toko berhasil didaftarkananda dapat men_b3a8bd'), 
-    0)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Homepage_kasirAja/RegisterPage_kasirAja/div_Toko berhasil didaftarkananda dapat men_b3a8bd'))
-
-WebUI.closeBrowser()
+WebUI.verifyElementVisible(findTestObject('Object Repository/Homepage_kasirAja/Dashboard/h3_kasirAja'))
 

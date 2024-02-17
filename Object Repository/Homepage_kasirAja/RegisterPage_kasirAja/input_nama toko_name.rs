@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>75c7e7ee-0444-4600-83a9-9a1da2c3e9f6</webElementGuid>
+      <webElementGuid>dd6dd5c6-cde7-4608-8135-b36a345beecb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>afcd594e-f37e-4281-a7c3-5457fb117439</webElementGuid>
+      <webElementGuid>15982fdb-2892-402f-aed0-35e10406fd72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>nama toko</value>
-      <webElementGuid>35084f10-74a0-48a1-b6c0-127420aea419</webElementGuid>
+      <webElementGuid>f2697b26-3d71-40a4-bc67-2b3f29f9c38d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>a7e00a43-540c-4a01-a76d-58ab2bc3d9fc</webElementGuid>
+      <webElementGuid>c6c7793b-e34c-404f-b3a8-de120643fe7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-input css-ksd4gw</value>
-      <webElementGuid>b8228b92-b632-4278-8073-9854f981dfac</webElementGuid>
+      <webElementGuid>850bff45-e70e-4f53-b5f5-1d79dcb846b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;name&quot;)</value>
-      <webElementGuid>18d00bee-b892-4652-afda-10c88148d218</webElementGuid>
+      <webElementGuid>beb09c64-529e-4cff-a529-a545c25094b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='name']</value>
-      <webElementGuid>75c5d284-aae2-43f4-b234-651e7be2639c</webElementGuid>
+      <webElementGuid>110a24c2-0919-4290-9121-8154a8463608</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[2]/div/div/input</value>
-      <webElementGuid>cefc27b3-914f-4450-a7fd-5d905dc76da9</webElementGuid>
+      <webElementGuid>3ef6c3d0-218c-4f3c-a249-e52822adcb8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>0a44cad2-0198-49cc-a067-bbf0d8d1d253</webElementGuid>
+      <webElementGuid>bc923025-61d4-4804-be6c-d2446c8aad39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'nama toko' and @id = 'name']</value>
-      <webElementGuid>b7040461-691b-445e-8a19-306d972f8ba1</webElementGuid>
+      <webElementGuid>d4391d3b-d42c-4b14-8bc9-04d880192578</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
