@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='button']</value>
+         <value>(//button[@type='button'])[4]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.chakra-button.css-1t6k0fn</value>
+         <value>button.chakra-modal__close-btn.css-1iqbypn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f2a49148-5887-4c24-8ce2-d12790e47357</webElementGuid>
+      <webElementGuid>22774b30-8a9f-43b9-a0b3-d0b6995d52df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,26 +30,90 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c28e67a9-effc-4a84-89ec-bfa69384359c</webElementGuid>
+      <webElementGuid>f8a3784d-56d8-4125-9266-d8ecc305592e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>chakra-button css-1t6k0fn</value>
-      <webElementGuid>a846708a-fcea-4de4-8f0d-0aee062b1026</webElementGuid>
+      <value>chakra-modal__close-btn css-1iqbypn</value>
+      <webElementGuid>98c70067-9ee6-45e3-9005-f441eb5143ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-1y1lvqg&quot;]/div[@class=&quot;css-16in75i&quot;]/div[@class=&quot;css-1w7v3tn&quot;]/div[@class=&quot;css-11jlpvc&quot;]/div[@class=&quot;chakra-form-control css-agre4x&quot;]/div[@class=&quot;chakra-input__group css-4302v8&quot;]/div[@class=&quot;chakra-input__right-element css-4qk9ai&quot;]/button[@class=&quot;chakra-button css-1t6k0fn&quot;]</value>
-      <webElementGuid>e62cf3e5-7747-486d-9495-1e7e8a96ce73</webElementGuid>
+      <value>id(&quot;chakra-modal-108&quot;)/button[@class=&quot;chakra-modal__close-btn css-1iqbypn&quot;]</value>
+      <webElementGuid>7672aa62-0a8a-4737-a9da-25726f6603cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>0b0033e8-b7c9-4411-be1d-0ad560983376</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>03ec6c7b-9ee3-4909-83ec-ee1efbfe0d30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='chakra-modal-108']/button</value>
+      <webElementGuid>0f9ddd5d-24d0-4c64-a864-5d008505d80d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='simpan'])[1]/following::button[1]</value>
+      <webElementGuid>3b73da01-384c-4018-9f4f-fe3b707b2e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nama'])[2]/preceding::button[1]</value>
+      <webElementGuid>1974e3ce-7743-4f1f-ba28-bae0c6f330cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='makanan ringan'])[1]/preceding::button[1]</value>
+      <webElementGuid>848a0417-c3fe-47a9-8c71-9000a0c1ed7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/button</value>
+      <webElementGuid>0d895b99-f437-4e53-8be4-cfc7ef3bf44f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>00b004fe-6110-48b3-91cf-3c981d743048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -103,13 +167,5 @@
       <type>Main</type>
       <value>//button</value>
       <webElementGuid>80fab214-0951-4e10-957e-2132a4771781</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button']</value>
-      <webElementGuid>f0bff2c5-7564-4822-b2fe-eb7ed7e523ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

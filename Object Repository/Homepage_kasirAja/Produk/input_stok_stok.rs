@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_password_password</name>
+   <name>input_stok_stok</name>
    <tag></tag>
-   <elementGuidId>adf2c7c7-1601-4741-8082-413eb06491a4</elementGuidId>
+   <elementGuidId>0baf92ed-bd0b-4c42-84ef-e295d3709461</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <value>//input[@id='stok']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>#stok</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1b4ee585-f10a-4710-aafd-a1db085f3fee</webElementGuid>
+      <webElementGuid>7ee958ac-d000-4f54-b7d6-305cbefb53cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data</name>
+      <type>Main</type>
+      <value>stok,0,function () { [native code] }</value>
+      <webElementGuid>c526017b-c1b4-480e-b380-a4da0eb8e84f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>20715131-a859-46e4-95f2-fd7547464ec4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>25f44cab-1549-47d2-a31b-7b024b26412e</webElementGuid>
+      <value>text</value>
+      <webElementGuid>353ab92e-d968-4100-866e-35b731484202</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>e1968ec5-e7cb-4fe4-8d96-fb8244a49746</webElementGuid>
+      <value>stok</value>
+      <webElementGuid>f9df10ab-08d7-4d94-bdae-887b9e9cd698</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,70 +54,62 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-input css-ksd4gw</value>
-      <webElementGuid>0f36d469-9659-4bef-979c-7f66912ac596</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>0f835742-aba4-4cbe-997a-8ac65c0fede3</webElementGuid>
+      <webElementGuid>9a2fc06b-b46e-49db-9d7b-fb4f9c7b03ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>123adsfadf@</value>
-      <webElementGuid>837e7b6d-8494-4597-ba7c-3e84268811a3</webElementGuid>
+      <value>0</value>
+      <webElementGuid>219aa2a9-2503-4373-90a2-bfc78159ee08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>numeric</value>
+      <webElementGuid>2d9b1558-f0d6-4e22-a468-3d741d213e49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stok&quot;)</value>
+      <webElementGuid>444796d2-bcaf-4f4f-93a1-da1a2c259f68</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>c9157511-498b-446b-9668-40ec7b9544f9</webElementGuid>
+      <value>//input[@id='stok']</value>
+      <webElementGuid>7fa2b6ec-3445-4405-a47b-92ef7432ac5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/input</value>
-      <webElementGuid>9d8c69ed-5c2b-42e4-a09f-05a67bc655c6</webElementGuid>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div[6]/input</value>
+      <webElementGuid>58ac46b6-4183-433a-bf0d-ca387062a9df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>e94ec62f-470d-490b-bc36-8235e4bb0cdc</webElementGuid>
+      <value>//div[6]/input</value>
+      <webElementGuid>b9f3677f-2b4d-48f5-9373-65b384860a5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @placeholder = 'password' and @id = 'password']</value>
-      <webElementGuid>706a1410-c0da-421b-ae1b-17896cf6a820</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div[2]/div/div[3]/div/input</value>
-      <webElementGuid>00bda98d-a454-4ea2-94b6-828b714d5bcf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/div/input</value>
-      <webElementGuid>4336338c-4156-4244-bb57-31ca00f9c82e</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'stok']</value>
+      <webElementGuid>7e49fede-e230-4a7a-a4c8-4d079def01c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

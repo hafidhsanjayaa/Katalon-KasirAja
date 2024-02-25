@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_password_password</name>
+   <name>input_harga jual_harga jual</name>
    <tag></tag>
-   <elementGuidId>adf2c7c7-1601-4741-8082-413eb06491a4</elementGuidId>
+   <elementGuidId>3c318b9d-9de0-4d27-aaff-983d62a8b66d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <value>//input[@id='harga jual']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1b4ee585-f10a-4710-aafd-a1db085f3fee</webElementGuid>
+      <webElementGuid>ed6202a0-f033-41fe-a547-38f56031e045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data</name>
+      <type>Main</type>
+      <value>harga jual,0,function () { [native code] }</value>
+      <webElementGuid>abff2190-c876-43e0-a0a8-e65c7ecde02e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>20715131-a859-46e4-95f2-fd7547464ec4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>25f44cab-1549-47d2-a31b-7b024b26412e</webElementGuid>
+      <value>text</value>
+      <webElementGuid>b28f038a-3f9e-4db0-a1fa-69cb90c6cdeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>e1968ec5-e7cb-4fe4-8d96-fb8244a49746</webElementGuid>
+      <value>harga jual</value>
+      <webElementGuid>e0de5f10-f89d-491f-b03a-46e8baff9f31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,70 +54,62 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-input css-ksd4gw</value>
-      <webElementGuid>0f36d469-9659-4bef-979c-7f66912ac596</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>0f835742-aba4-4cbe-997a-8ac65c0fede3</webElementGuid>
+      <webElementGuid>448d363a-dc3c-4c46-80ab-de7fb6ccca12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>123adsfadf@</value>
-      <webElementGuid>837e7b6d-8494-4597-ba7c-3e84268811a3</webElementGuid>
+      <value>0</value>
+      <webElementGuid>95ba1aca-6715-40e1-8588-0bb796825d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>numeric</value>
+      <webElementGuid>f3a8068a-cd79-4a57-9f3a-73d0c0be1eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;harga jual&quot;)</value>
+      <webElementGuid>a728313f-5959-4641-a024-b324b5dfb33d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>c9157511-498b-446b-9668-40ec7b9544f9</webElementGuid>
+      <value>//input[@id='harga jual']</value>
+      <webElementGuid>ae1bda69-b417-4a1b-abf7-9c60e728f071</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/input</value>
-      <webElementGuid>9d8c69ed-5c2b-42e4-a09f-05a67bc655c6</webElementGuid>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div[5]/input</value>
+      <webElementGuid>7e8f1875-e0d6-49f3-b60e-f23f360db846</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>e94ec62f-470d-490b-bc36-8235e4bb0cdc</webElementGuid>
+      <value>//div[5]/input</value>
+      <webElementGuid>aae92fc2-01fe-4109-82b7-14f22fc9f40c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @placeholder = 'password' and @id = 'password']</value>
-      <webElementGuid>706a1410-c0da-421b-ae1b-17896cf6a820</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div[2]/div/div[3]/div/input</value>
-      <webElementGuid>00bda98d-a454-4ea2-94b6-828b714d5bcf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/div/input</value>
-      <webElementGuid>4336338c-4156-4244-bb57-31ca00f9c82e</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'harga jual']</value>
+      <webElementGuid>dd4f19b5-4ec6-41db-9ef9-9317871dad58</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

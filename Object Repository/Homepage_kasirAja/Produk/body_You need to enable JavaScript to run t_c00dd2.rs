@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_You need to enable JavaScript to run t_c00dd2</name>
+   <tag></tag>
+   <elementGuidId>20c83a52-b6ef-4c63-bdb5-a89235cd0720</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body.chakra-ui-light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>49849b10-a45a-4f45-9711-eec4bc1b7456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-ui-light</value>
+      <webElementGuid>d1bd64a7-50ed-4b3c-9a65-a2461845f081</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You need to enable JavaScript to run this app.hai, kasirAjakasirAja sebuah sistem POS simple, mudah, cepat, dan modernsistem penjualan dan pembelian yang simple dengan pengelolan produk multi user. modern dengan dibangun diatas rest api dengan menggunakan nodejs, dapat diakses melalui web maupun perangkat mobile dengan aplikasi yang tersedia dan support dengan PWA.- kasirAjaDevemailpasswordingin mencoba, daftar ?login!function(e){function r(r){for(var n,c,u=r[0],i=r[1],f=r[2],s=0,p=[];s&lt;u.length;s++)c=u[s],Object.prototype.hasOwnProperty.call(o,c)&amp;&amp;o[c]&amp;&amp;p.push(o[c][0]),o[c]=0;for(n in i)Object.prototype.hasOwnProperty.call(i,n)&amp;&amp;(e[n]=i[n]);for(l&amp;&amp;l(r);p.length;)p.shift()();return a.push.apply(a,f||[]),t()}function t(){for(var e,r=0;r&lt;a.length;r++){for(var t=a[r],n=!0,u=1;u&lt;t.length;u++){var i=t[u];0!==o[i]&amp;&amp;(n=!1)}n&amp;&amp;(a.splice(r--,1),e=c(c.s=t[0]))}return e}var n={},o={5:0},a=[];function c(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,c),t.l=!0,t.exports}c.e=function(e){var r=[],t=o[e];if(0!==t)if(t)r.push(t[2]);else{var n=new Promise((function(r,n){t=o[e]=[r,n]}));r.push(t[2]=n);var a,u=document.createElement(&quot;script&quot;);u.charset=&quot;utf-8&quot;,u.timeout=120,c.nc&amp;&amp;u.setAttribute(&quot;nonce&quot;,c.nc),u.src=function(e){return c.p+&quot;static/js/&quot;+({}[e]||e)+&quot;.&quot;+{0:&quot;e6326906&quot;,1:&quot;afb8091b&quot;,2:&quot;d640b7ea&quot;,3:&quot;46a45876&quot;,6:&quot;156cd1d7&quot;,8:&quot;95364fb1&quot;,9:&quot;1e9edb48&quot;,10:&quot;dc85c1b5&quot;,11:&quot;8a1876c5&quot;,12:&quot;2b3a3b84&quot;,13:&quot;8357ef56&quot;,14:&quot;447e7872&quot;,15:&quot;5acd9c71&quot;,16:&quot;cfe3a014&quot;,17:&quot;6e131ff8&quot;,18:&quot;fdc9bfc5&quot;,19:&quot;53450c63&quot;,20:&quot;079de9c7&quot;}[e]+&quot;.chunk.js&quot;}(e);var i=new Error;a=function(r){u.onerror=u.onload=null,clearTimeout(f);var t=o[e];if(0!==t){if(t){var n=r&amp;&amp;(&quot;load&quot;===r.type?&quot;missing&quot;:r.type),a=r&amp;&amp;r.target&amp;&amp;r.target.src;i.message=&quot;Loading chunk &quot;+e+&quot; failed.\n(&quot;+n+&quot;: &quot;+a+&quot;)&quot;,i.name=&quot;ChunkLoadError&quot;,i.type=n,i.request=a,t[1](i)}o[e]=void 0}};var f=setTimeout((function(){a({type:&quot;timeout&quot;,target:u})}),12e4);u.onerror=u.onload=a,document.head.appendChild(u)}return Promise.all(r)},c.m=e,c.c=n,c.d=function(e,r,t){c.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},c.r=function(e){&quot;undefined&quot;!=typeof Symbol&amp;&amp;Symbol.toStringTag&amp;&amp;Object.defineProperty(e,Symbol.toStringTag,{value:&quot;Module&quot;}),Object.defineProperty(e,&quot;__esModule&quot;,{value:!0})},c.t=function(e,r){if(1&amp;r&amp;&amp;(e=c(e)),8&amp;r)return e;if(4&amp;r&amp;&amp;&quot;object&quot;==typeof e&amp;&amp;e&amp;&amp;e.__esModule)return e;var t=Object.create(null);if(c.r(t),Object.defineProperty(t,&quot;default&quot;,{enumerable:!0,value:e}),2&amp;r&amp;&amp;&quot;string&quot;!=typeof e)for(var n in e)c.d(t,n,function(r){return e[r]}.bind(null,n));return t},c.n=function(e){var r=e&amp;&amp;e.__esModule?function(){return e.default}:function(){return e};return c.d(r,&quot;a&quot;,r),r},c.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},c.p=&quot;/&quot;,c.oe=function(e){throw console.error(e),e};var u=this[&quot;webpackJsonpreact-kasiraja-web&quot;]=this[&quot;webpackJsonpreact-kasiraja-web&quot;]||[],i=u.push.bind(u);u.push=r,u=u.slice();for(var f=0;f&lt;u.length;f++)r(u[f]);var l=i;t()}([])id(&quot;email&quot;)</value>
+      <webElementGuid>6a9c1bd7-9e08-43a8-9847-0c1b87146c27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;chakra-ui-light&quot;]</value>
+      <webElementGuid>010eeabc-851b-4e0d-92f2-25803268ae7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>85203794-7f69-417e-89f5-ac3bdfa07ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'You need to enable JavaScript to run this app.hai, kasirAjakasirAja sebuah sistem POS simple, mudah, cepat, dan modernsistem penjualan dan pembelian yang simple dengan pengelolan produk multi user. modern dengan dibangun diatas rest api dengan menggunakan nodejs, dapat diakses melalui web maupun perangkat mobile dengan aplikasi yang tersedia dan support dengan PWA.- kasirAjaDevemailpasswordingin mencoba, daftar ?login!function(e){function r(r){for(var n,c,u=r[0],i=r[1],f=r[2],s=0,p=[];s&lt;u.length;s++)c=u[s],Object.prototype.hasOwnProperty.call(o,c)&amp;&amp;o[c]&amp;&amp;p.push(o[c][0]),o[c]=0;for(n in i)Object.prototype.hasOwnProperty.call(i,n)&amp;&amp;(e[n]=i[n]);for(l&amp;&amp;l(r);p.length;)p.shift()();return a.push.apply(a,f||[]),t()}function t(){for(var e,r=0;r&lt;a.length;r++){for(var t=a[r],n=!0,u=1;u&lt;t.length;u++){var i=t[u];0!==o[i]&amp;&amp;(n=!1)}n&amp;&amp;(a.splice(r--,1),e=c(c.s=t[0]))}return e}var n={},o={5:0},a=[];function c(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,c),t.l=!0,t.exports}c.e=function(e){var r=[],t=o[e];if(0!==t)if(t)r.push(t[2]);else{var n=new Promise((function(r,n){t=o[e]=[r,n]}));r.push(t[2]=n);var a,u=document.createElement(&quot;script&quot;);u.charset=&quot;utf-8&quot;,u.timeout=120,c.nc&amp;&amp;u.setAttribute(&quot;nonce&quot;,c.nc),u.src=function(e){return c.p+&quot;static/js/&quot;+({}[e]||e)+&quot;.&quot;+{0:&quot;e6326906&quot;,1:&quot;afb8091b&quot;,2:&quot;d640b7ea&quot;,3:&quot;46a45876&quot;,6:&quot;156cd1d7&quot;,8:&quot;95364fb1&quot;,9:&quot;1e9edb48&quot;,10:&quot;dc85c1b5&quot;,11:&quot;8a1876c5&quot;,12:&quot;2b3a3b84&quot;,13:&quot;8357ef56&quot;,14:&quot;447e7872&quot;,15:&quot;5acd9c71&quot;,16:&quot;cfe3a014&quot;,17:&quot;6e131ff8&quot;,18:&quot;fdc9bfc5&quot;,19:&quot;53450c63&quot;,20:&quot;079de9c7&quot;}[e]+&quot;.chunk.js&quot;}(e);var i=new Error;a=function(r){u.onerror=u.onload=null,clearTimeout(f);var t=o[e];if(0!==t){if(t){var n=r&amp;&amp;(&quot;load&quot;===r.type?&quot;missing&quot;:r.type),a=r&amp;&amp;r.target&amp;&amp;r.target.src;i.message=&quot;Loading chunk &quot;+e+&quot; failed.\n(&quot;+n+&quot;: &quot;+a+&quot;)&quot;,i.name=&quot;ChunkLoadError&quot;,i.type=n,i.request=a,t[1](i)}o[e]=void 0}};var f=setTimeout((function(){a({type:&quot;timeout&quot;,target:u})}),12e4);u.onerror=u.onload=a,document.head.appendChild(u)}return Promise.all(r)},c.m=e,c.c=n,c.d=function(e,r,t){c.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},c.r=function(e){&quot;undefined&quot;!=typeof Symbol&amp;&amp;Symbol.toStringTag&amp;&amp;Object.defineProperty(e,Symbol.toStringTag,{value:&quot;Module&quot;}),Object.defineProperty(e,&quot;__esModule&quot;,{value:!0})},c.t=function(e,r){if(1&amp;r&amp;&amp;(e=c(e)),8&amp;r)return e;if(4&amp;r&amp;&amp;&quot;object&quot;==typeof e&amp;&amp;e&amp;&amp;e.__esModule)return e;var t=Object.create(null);if(c.r(t),Object.defineProperty(t,&quot;default&quot;,{enumerable:!0,value:e}),2&amp;r&amp;&amp;&quot;string&quot;!=typeof e)for(var n in e)c.d(t,n,function(r){return e[r]}.bind(null,n));return t},c.n=function(e){var r=e&amp;&amp;e.__esModule?function(){return e.default}:function(){return e};return c.d(r,&quot;a&quot;,r),r},c.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},c.p=&quot;/&quot;,c.oe=function(e){throw console.error(e),e};var u=this[&quot;webpackJsonpreact-kasiraja-web&quot;]=this[&quot;webpackJsonpreact-kasiraja-web&quot;]||[],i=u.push.bind(u);u.push=r,u=u.slice();for(var f=0;f&lt;u.length;f++)r(u[f]);var l=i;t()}([])id(&quot;email&quot;)' or . = 'You need to enable JavaScript to run this app.hai, kasirAjakasirAja sebuah sistem POS simple, mudah, cepat, dan modernsistem penjualan dan pembelian yang simple dengan pengelolan produk multi user. modern dengan dibangun diatas rest api dengan menggunakan nodejs, dapat diakses melalui web maupun perangkat mobile dengan aplikasi yang tersedia dan support dengan PWA.- kasirAjaDevemailpasswordingin mencoba, daftar ?login!function(e){function r(r){for(var n,c,u=r[0],i=r[1],f=r[2],s=0,p=[];s&lt;u.length;s++)c=u[s],Object.prototype.hasOwnProperty.call(o,c)&amp;&amp;o[c]&amp;&amp;p.push(o[c][0]),o[c]=0;for(n in i)Object.prototype.hasOwnProperty.call(i,n)&amp;&amp;(e[n]=i[n]);for(l&amp;&amp;l(r);p.length;)p.shift()();return a.push.apply(a,f||[]),t()}function t(){for(var e,r=0;r&lt;a.length;r++){for(var t=a[r],n=!0,u=1;u&lt;t.length;u++){var i=t[u];0!==o[i]&amp;&amp;(n=!1)}n&amp;&amp;(a.splice(r--,1),e=c(c.s=t[0]))}return e}var n={},o={5:0},a=[];function c(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,c),t.l=!0,t.exports}c.e=function(e){var r=[],t=o[e];if(0!==t)if(t)r.push(t[2]);else{var n=new Promise((function(r,n){t=o[e]=[r,n]}));r.push(t[2]=n);var a,u=document.createElement(&quot;script&quot;);u.charset=&quot;utf-8&quot;,u.timeout=120,c.nc&amp;&amp;u.setAttribute(&quot;nonce&quot;,c.nc),u.src=function(e){return c.p+&quot;static/js/&quot;+({}[e]||e)+&quot;.&quot;+{0:&quot;e6326906&quot;,1:&quot;afb8091b&quot;,2:&quot;d640b7ea&quot;,3:&quot;46a45876&quot;,6:&quot;156cd1d7&quot;,8:&quot;95364fb1&quot;,9:&quot;1e9edb48&quot;,10:&quot;dc85c1b5&quot;,11:&quot;8a1876c5&quot;,12:&quot;2b3a3b84&quot;,13:&quot;8357ef56&quot;,14:&quot;447e7872&quot;,15:&quot;5acd9c71&quot;,16:&quot;cfe3a014&quot;,17:&quot;6e131ff8&quot;,18:&quot;fdc9bfc5&quot;,19:&quot;53450c63&quot;,20:&quot;079de9c7&quot;}[e]+&quot;.chunk.js&quot;}(e);var i=new Error;a=function(r){u.onerror=u.onload=null,clearTimeout(f);var t=o[e];if(0!==t){if(t){var n=r&amp;&amp;(&quot;load&quot;===r.type?&quot;missing&quot;:r.type),a=r&amp;&amp;r.target&amp;&amp;r.target.src;i.message=&quot;Loading chunk &quot;+e+&quot; failed.\n(&quot;+n+&quot;: &quot;+a+&quot;)&quot;,i.name=&quot;ChunkLoadError&quot;,i.type=n,i.request=a,t[1](i)}o[e]=void 0}};var f=setTimeout((function(){a({type:&quot;timeout&quot;,target:u})}),12e4);u.onerror=u.onload=a,document.head.appendChild(u)}return Promise.all(r)},c.m=e,c.c=n,c.d=function(e,r,t){c.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},c.r=function(e){&quot;undefined&quot;!=typeof Symbol&amp;&amp;Symbol.toStringTag&amp;&amp;Object.defineProperty(e,Symbol.toStringTag,{value:&quot;Module&quot;}),Object.defineProperty(e,&quot;__esModule&quot;,{value:!0})},c.t=function(e,r){if(1&amp;r&amp;&amp;(e=c(e)),8&amp;r)return e;if(4&amp;r&amp;&amp;&quot;object&quot;==typeof e&amp;&amp;e&amp;&amp;e.__esModule)return e;var t=Object.create(null);if(c.r(t),Object.defineProperty(t,&quot;default&quot;,{enumerable:!0,value:e}),2&amp;r&amp;&amp;&quot;string&quot;!=typeof e)for(var n in e)c.d(t,n,function(r){return e[r]}.bind(null,n));return t},c.n=function(e){var r=e&amp;&amp;e.__esModule?function(){return e.default}:function(){return e};return c.d(r,&quot;a&quot;,r),r},c.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},c.p=&quot;/&quot;,c.oe=function(e){throw console.error(e),e};var u=this[&quot;webpackJsonpreact-kasiraja-web&quot;]=this[&quot;webpackJsonpreact-kasiraja-web&quot;]||[],i=u.push.bind(u);u.push=r,u=u.slice();for(var f=0;f&lt;u.length;f++)r(u[f]);var l=i;t()}([])id(&quot;email&quot;)')]</value>
+      <webElementGuid>8bede0e6-e5c7-455b-a59f-ff27844600c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
